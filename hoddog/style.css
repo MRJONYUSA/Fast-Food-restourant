@@ -1,0 +1,517 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+.lear{
+    background: url(./img/-5993383109745290792_121.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.lear h1{
+    font-size: 35px;
+    font-family: sans-serif;
+    margin-left: 22%;
+    padding-top: 20%;
+    color: white;
+}
+.lear p{
+    font-family: sans-serif;
+    display: block;
+    color: white;
+    margin-left: 22%;
+    font-size: 15px;
+}
+.lear button{
+    font-family: sans-serif;
+    padding: 8px;
+    background-color: var(--text-color);
+    font-size: 20px;
+    border-radius: 50px;
+    margin-left: 22%;
+    margin-top: 20px;
+    height: 10%;
+}
+.lear button:hover{
+    transition: 0.5s;
+    transform: scale(1.2);
+}
+.ovkat{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+.ovkat h1{
+    color: white;
+    margin-left: 22%;
+    padding-top: 30px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+.lo{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 25%;
+    margin-top: 50px;
+}
+.lo img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.lo h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.lo p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.lo h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.lo button{
+    font-size: 20px;
+    margin-left: 64px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.lo button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+ .lk{
+     position: fixed;
+     left: 0;
+     top: 0;
+    background-color: rgb(0, 0, 0);
+    width: 20%;
+    height: 100%;
+    border: 2px solid white;
+}
+.lk ul li{
+    color: var(--text-color);
+    font-family: sans-serif;
+    cursor: pointer;
+    padding: 8px;
+    text-align: center;
+    margin-top: 80px;
+    font-weight: bold;
+}
+.lk li a{
+    color: var(--text-color);
+}
+.lk ul a:hover{
+    transition: 0.5s;
+    transform: scale(1.2);
+    color: white;
+}
+.btn1{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 50%;
+    margin-top: -344px;
+}
+.btn1 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn1 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn1 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn1 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn1 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn1 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.btn2{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 75%;
+    margin-top: -345px;
+}
+.btn2 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn2 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn2 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn2 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn2 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn2 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.lear3{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+.lear3 h1{
+    color: white;
+    margin-left: 22%;
+    padding-top: 30px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+.btn3{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 25%;
+    margin-top: 42px;
+}
+.btn3 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn3 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn3 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn3 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn3 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn3 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.btn4{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 50%;
+    margin-top: -341px;
+}
+.btn4 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn4 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn4 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn4 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn4 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn4 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.btn5{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 75%;
+    margin-top: -349px;
+}
+.btn5 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn5 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn5 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn5 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn5 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn5 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.lear4{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+.lear4 h1{
+    color: white;
+    margin-left: 22%;
+    padding-top: 30px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+.btn6{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 24%;
+    margin-top: 40px;
+}
+.btn6 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn6 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn6 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn6 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn6 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn6 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.btn7{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 50%;
+    margin-top: -349px;
+}
+.btn7 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn7 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn7 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn7 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn7 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn7 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.btn8{
+    width: 20%;
+    height: 52%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid var(--text-color);
+    margin-left: 75%;
+    margin-top: -349px;
+}
+.btn8 img{
+    width: 70%;
+    height: 40%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn8 h1{
+    font-size: 25px;
+    color: var(--text-color);
+    text-align: center;
+    margin-left: -10px;
+}
+.btn8 p{
+    color: var(--text-color);
+    font-size: 10px;
+    padding: 6px;
+}
+.btn8 h4{
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
+.btn8 button{
+    font-size: 20px;
+    margin-left: 60px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.btn8 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.lear9{
+    background-color: black;
+    width: 100%;
+    height: 70vh;
+}
+.lear9 h1{
+    color: white;
+    margin-left: 22%;
+    padding-top: 30px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+.lear9 input{
+    background: none;
+    border: 2px solid var(--text-color);
+    margin-left: 25%;
+    margin-top: 40px;
+    display: block; 
+    font-size: 15px;
+    border-radius: 50px;
+    padding: 10px;
+    width: 20%;
+    color: white;
+}
+.lear9 button{
+    font-size: 20px;
+    margin-left: 25%;
+    width: 10%;
+    margin-top: 30px;
+    background-color: var(--text-color);
+    border-radius: 50px;
+    padding: 8px;
+}
+.lear9 button:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+.lear9 p{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 15px;
+    padding-top: 10px;
+}
